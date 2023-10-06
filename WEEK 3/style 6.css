@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+    background-image: url(https://wallpapers.com/images/hd/black-and-white-carbon-fiber-lmb0ripx82s4ee4y.jpg);
+    background-repeat: no-repeat;
+    background-position:top;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    color:white;
+    text-indent: 30px;
+}
+h2{
+    text-align: center;
+    color:lightgreen;
+    text-transform: initial;
+}
+h3{
+    text-align: center;
+    color:red;
+    text-decoration:line-through;
+}
+p{
+    color: white;
+}
